@@ -1,4 +1,4 @@
-# q_learning_demo
+﻿# q_learning_demo
 This is the code for "How to use Q Learning in Video Games Easily" by Siraj Raval on Youtube
 
 ##Overview
@@ -33,8 +33,7 @@ The challenge for this video is to
 
 **Bonus points if you modify the bot in some way that makes it more efficient**
 
-#Due Date is Thursday at noon PST January 12th 2017
-
+##Modded by TJ
 ##Credits
 
 The credits for this code go to [PhillipeMorere](https://github.com/PhilippeMorere). I've merely created a wrapper to get people started.
